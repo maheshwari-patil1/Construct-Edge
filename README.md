@@ -11,9 +11,9 @@ This project was developed as an academic major project using modern web technol
 🚀 Features
 🔐 Authentication & Authorization
 
--Secure login and registration
--Role-based access (Admin, Manager, Staff)
--Protected dashboard routes
+- Secure login and registration
+- Role-based access (Admin, Manager, Staff)
+- Protected dashboard routes
 
 📊 Project Management
 
