@@ -1,6 +1,6 @@
 
 # 🏗 ConstructEdge – Construction Management System
-📌 Project Overview
+# 📌 Project Overview
 
 ConstructEdge is a full-stack Construction Project Management System developed to help construction companies digitally manage projects, employees, tasks, materials, and inventory efficiently.
 
@@ -17,65 +17,47 @@ This project was developed as an academic major project using modern web technol
 
 📊 Project Management
 
-Create and manage construction projects
-
-Assign managers and employees
-
-Track project progress
+- Create and manage construction projects
+- Assign managers and employees
+- Track project progress
 
 👨‍💼 Employee Management
 
-Add and manage employee records
-
-Assign roles and responsibilities
+- Add and manage employee records
+- Assign roles and responsibilities
 
 ✅ Task Management
 
-Task allocation to employees
-
-Task tracking and updates
+- Task allocation to employees
+- Task tracking and updates
 
 📦 Inventory Management
 
-Material tracking
-
-Stock updates and monitoring
+- Material tracking
+- Stock updates and monitoring
 
 📈 Dashboard Analytics
 
-Project statistics
+- Project statistics
+- Employee overview
+- Inventory insights
 
-Employee overview
+# 🛠 Technology Stack
+# Frontend
 
-Inventory insights
+- React.js with TypeScript
+- Vite build tool
+- Tailwind CSS
+- React Router
+- Context API for authentication
+- Axios for API communication
 
-🛠 Technology Stack
-Frontend
+# Backend
 
-React.js with TypeScript
+- Java Spring Boot
+- Spring Security
+- RESTful API architecture
 
-Vite build tool
-
-Tailwind CSS
-
-React Router
-
-Context API for authentication
-
-Axios for API communication
-
-Backend
-
-Java Spring Boot
-
-Spring Security
-
-Hibernate / JPA
-
-RESTful API architecture
-
-JWT Authentication
-
-Database
+# Database
 
 MySQL relational database
