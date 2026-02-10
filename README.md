@@ -156,3 +156,33 @@ npm run dev
 ```
 http://localhost:5173
 ```
+
+## 🎯 Future Improvements
+
+* API documentation (Swagger)
+* Advanced analytics dashboard
+* Mobile responsive optimization
+* Cloud deployment (AWS/Render)
+* Notification system
+* Real-time project tracking
+
+---
+
+## 👩‍💻 Author
+
+**Maheshwari Patil**
+BE in Computer Science Student
+C-DAC Student
+Specialization: Full Stack Development
+---
+
+## 📜 License
+
+This project is developed for educational purposes.
+You may use it for learning and academic reference.
+
+---
+
+## ⭐ Acknowledgment
+
+Thanks to mentors, faculty, and online resources that supported the development of this project.
