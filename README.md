@@ -103,36 +103,56 @@ git clone https://github.com/yourusername/ConstructEdge.git
 cd ConstructEdge
 ```
 
-### 2️⃣ Backend Setup (Spring Boot)
+## 2️⃣ Backend Setup (Spring Boot)
 
-Requirements:
+### Requirements
 
-- Java 17+
-- Maven
-- MySQL Server
+* Java 17+
+* Maven
+* MySQL Server
 
-Steps:
+### Steps
+
+```bash
 cd backend
 mvn clean install
 mvn spring-boot:run
+```
 
-Update database configuration in:
- src/main/resources/application.properties
+### Update Database Configuration
 
-Example:
+Edit file:
+
+```
+src/main/resources/application.properties
+```
+
+### Example Configuration
+
+```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/construction_db
 spring.datasource.username=root
 spring.datasource.password=yourpassword
+```
 
-### 3️⃣ Frontend Setup (React)
+---
 
-Requirements:
-Node.js 16+
+## 3️⃣ Frontend Setup (React)
 
-Steps:
+### Requirements
+
+* Node.js 16+
+
+### Steps
+
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
-Frontend will run on:
+### Frontend Runs On
+
+```
 http://localhost:5173
+```
