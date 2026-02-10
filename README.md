@@ -179,9 +179,10 @@ Specialization: Full Stack Development
 ---
 
 ## 📜 License
-
+```
 This project is developed for educational purposes.
 You may use it for learning and academic reference.
+```
 
 ---
 
