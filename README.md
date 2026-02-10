@@ -96,10 +96,10 @@ ConstructEdge/
 └── README.md
 ```
 ## ⚙ Installation & Setup
-1️⃣ Clone Repository
+### 1️⃣ Clone Repository
 git clone https://github.com/yourusername/ConstructEdge.git
 cd ConstructEdge
-2️⃣ Backend Setup (Spring Boot)
+### 2️⃣ Backend Setup (Spring Boot)
 
 Requirements:
 
@@ -120,7 +120,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/construction_db
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 
-3️⃣ Frontend Setup (React)
+### 3️⃣ Frontend Setup (React)
 
 Requirements:
 Node.js 16+
