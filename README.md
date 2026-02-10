@@ -82,7 +82,7 @@ The project follows a layered architecture:
 ConstructEdge/ 
 │ 
 ├── frontend/ 
-│ ├── src/ 
+│ ├── src/     # React source code (components, pages, services) 
 │ ├── public/ 
 │ └── package.json 
 │ 
