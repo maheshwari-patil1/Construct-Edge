@@ -61,3 +61,34 @@ This project was developed as an academic major project using modern web technol
 # Database
 
 MySQL relational database
+
+
+# 🏗 System Architecture
+
+Frontend (React + TypeScript)
+⬇ REST API Calls
+Backend (Spring Boot)
+⬇
+MySQL Database
+
+The project follows a layered architecture:
+
+- Controller Layer – API endpoints
+- Service Layer – Business logic
+- Repository Layer – Database operations
+- Database Layer – Data persistence
+
+📂 Project Structure
+ConstructEdge/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── backend/
+│   ├── src/main/java/
+│   ├── src/main/resources/
+│   └── pom.xml
+│
+└── README.md
