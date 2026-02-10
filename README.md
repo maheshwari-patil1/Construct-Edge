@@ -79,7 +79,6 @@ The project follows a layered architecture:
 - Database Layer – Data persistence
 
 # 📂 Project Structure
-## 📂 Project Structure
 
 ```
 ConstructEdge/
