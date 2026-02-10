@@ -170,11 +170,11 @@ http://localhost:5173
 
 ## 👩‍💻 Author
 
-**Maheshwari Patil**
+Maheshwari Patil
 BE in Computer Science Student
 C-DAC Student
 Specialization: Full Stack Development
----
+
 
 ## 📜 License
 
