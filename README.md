@@ -1,6 +1,6 @@
 
 # 🏗 ConstructEdge – Construction Management System
-# 📌 Project Overview
+## 📌 Project Overview
 
 ConstructEdge is a full-stack Construction Project Management System developed to help construction companies digitally manage projects, employees, tasks, materials, and inventory efficiently.
 
@@ -8,7 +8,7 @@ The system provides role-based access control, dashboard analytics, and centrali
 
 This project was developed as an academic major project using modern web technologies.
 
-# 🚀 Features
+## 🚀 Features
 🔐 Authentication & Authorization
 
 - Secure login and registration
@@ -42,8 +42,8 @@ This project was developed as an academic major project using modern web technol
 - Employee overview
 - Inventory insights
 
-# 🛠 Technology Stack
-# Frontend
+## 🛠 Technology Stack
+## Frontend
 
 - React.js with TypeScript
 - Vite build tool
@@ -52,18 +52,18 @@ This project was developed as an academic major project using modern web technol
 - Context API for authentication
 - Axios for API communication
 
-# Backend
+## Backend
 
 - Java Spring Boot
 - Spring Security
 - RESTful API architecture
 
-# Database
+## Database
 
 MySQL relational database
 
 
-# 🏗 System Architecture
+## 🏗 System Architecture
 
 Frontend (React + TypeScript)
 ⬇ REST API Calls
@@ -78,7 +78,7 @@ The project follows a layered architecture:
 - Repository Layer – Database operations
 - Database Layer – Data persistence
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```
 ConstructEdge/
