@@ -97,8 +97,12 @@ ConstructEdge/
 ```
 ## ⚙ Installation & Setup
 ### 1️⃣ Clone Repository
+
+```bash
 git clone https://github.com/yourusername/ConstructEdge.git
 cd ConstructEdge
+```
+
 ### 2️⃣ Backend Setup (Spring Boot)
 
 Requirements:
