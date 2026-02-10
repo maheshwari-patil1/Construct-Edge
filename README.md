@@ -82,13 +82,13 @@ The project follows a layered architecture:
 ConstructEdge/ 
 │ 
 ├── frontend/ 
-│ ├── src/ # React source code (components, pages, services) 
-│ ├── public/ # Static assets 
-│ └── package.json # Frontend dependencies & scripts 
+│ ├── src/ 
+│ ├── public/ 
+│ └── package.json 
 │ 
 ├── backend/ 
-│ ├── src/main/java/ # Spring Boot Java source code 
-│ ├── src/main/resources/ # Configuration files (application.properties, etc.) 
-│ └── pom.xml # Maven dependencies 
+│ ├── src/main/java/ 
+│ ├── src/main/resources/ 
+│ └── pom.xml 
 │ 
-└── README.md # Project documentation
+└── README.md 
