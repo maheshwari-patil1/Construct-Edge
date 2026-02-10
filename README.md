@@ -8,7 +8,7 @@ The system provides role-based access control, dashboard analytics, and centrali
 
 This project was developed as an academic major project using modern web technologies.
 
-🚀 Features
+# 🚀 Features
 🔐 Authentication & Authorization
 
 - Secure login and registration
