@@ -78,7 +78,7 @@ The project follows a layered architecture:
 - Repository Layer – Database operations
 - Database Layer – Data persistence
 
-📂 Project Structure
+# 📂 Project Structure
 ConstructEdge/
 │
 ├── frontend/
