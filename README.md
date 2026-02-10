@@ -79,16 +79,21 @@ The project follows a layered architecture:
 - Database Layer – Data persistence
 
 # 📂 Project Structure
-# ConstructEdge/ 
-│ 
-├── frontend/ 
-│ ├── src/     # React source code (components, pages, services) 
-│ ├── public/ 
-│ └── package.json 
-│ 
-├── backend/ 
-│ ├── src/main/java/ 
-│ ├── src/main/resources/ 
-│ └── pom.xml 
-│ 
-└── README.md 
+## 📂 Project Structure
+
+```
+ConstructEdge/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── backend/
+│   ├── src/main/java/
+│   ├── src/main/resources/
+│   └── pom.xml
+│
+└── README.md
+```
+
